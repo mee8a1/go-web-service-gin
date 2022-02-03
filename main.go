@@ -53,4 +53,6 @@ func postAlbums(c *gin.Context) {
 /*
 try it with
 $ curl http://localhost:8080/albums --include --header "Content-Type: application/json" --request "POST" --data '{"id": "4","title": "The Modern Sound of Betty Carter","artist": "Betty Carter","price": 49.99}'
+
++ GIN: Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies
 */
