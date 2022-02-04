@@ -13,4 +13,14 @@ Thus, *curl* should be executed in a Windows environment like this (relative to 
 
 2) for some reason in Ubuntu 20 (LTS) I was consistently getting "404 Not Found" in response to the request 'curl http://localhost:8080/albums/2'
 	if you know why, let me know.
+
+
+
+Я конечно не такой крутой как Marilyn Manson.
+
+Но у меня есть две руки. Есть. Одна из них не работает. Но это фигня.
+
+Я хороший программист junior Go, знаю про git и про GitHub.
+
+
 	
