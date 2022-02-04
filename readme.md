@@ -6,6 +6,7 @@
 1) on Windows 10, *curl* is an alias for the 'Invoke-WebRequest' PowerShell *cmdlet*, which has its own parameter passing:
 
 >SYNTAX
+>
 >    Invoke-WebRequest [-Uri] <Uri> [-Body <Object>] [-Certificate <X509Certificate>] [-CertificateThumbprint <String>]
 >    [-ContentType <String>] [-Credential <PSCredential>] [-DisableKeepAlive] [-Headers <IDictionary>] [-InFile <String>]
 >	 [-MaximumRedirection <Int32>] [-Method {Default | Get | Head | Post | Put | Delete | Trace | Options | Merge | Patch}]
