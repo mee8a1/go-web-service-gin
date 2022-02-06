@@ -16,11 +16,6 @@ Thus, *curl* should be executed in a Windows environment like this (relative to 
 
 
 
-Я конечно не такой крутой как Marilyn Manson.
-
-Но у меня есть две руки. Есть. Одна из них не работает. Но это фигня.
-
-Я хороший программист junior Go, знаю про git и про GitHub.
 
 
 	
